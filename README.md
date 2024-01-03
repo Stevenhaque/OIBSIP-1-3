@@ -1,1 +1,1 @@
-A Temperature Converter web-app using HTML, CSS, Javascript
+A Temperature Converter web-app using HTML, CSS, JavaScript.
